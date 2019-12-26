@@ -1,3 +1,4 @@
+#(C) Copyright GitHub.com/tanujdey7
 name = input("Enter Name: ")
 rollno = int(input("Enter Roll No: "))
 maths = int(input("Enter Marks of Maths: "))
